@@ -1,0 +1,11 @@
+bin/
+obj/
+gamedata/
+lib/
+MelonLoader/
+Mods/
+Plugins/
+UserData/
+*.pdb
+*.log
+auth_github*.sh
